@@ -4,7 +4,7 @@
   "panX" : 328.0,
   "panY" : -54.0,
   "logLevel" : "INFO",
-  "description" : "",
+  "description" : "ThreatConnect playbook to read a Google Alerts RSS feed and create indicators from the links.",
   "jobList" : [ {
     "id" : 9626,
     "appCatalogItem" : {
