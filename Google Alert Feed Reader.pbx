@@ -299,7 +299,7 @@
   } ],
   "playbookTriggerList" : [ {
     "id" : 925,
-    "name" : "Run Weekly on Monday",
+    "name" : "Run on Interval",
     "type" : "Timer",
     "eventType" : "Create",
     "locationLeft" : -50.0,
