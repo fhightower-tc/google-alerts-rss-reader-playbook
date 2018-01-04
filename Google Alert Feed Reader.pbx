@@ -226,7 +226,7 @@
       "appCatalogItemParameter" : {
         "paramName" : "owner"
       },
-      "value" : "Research Labs"
+      "value" : ""
     }, {
       "appCatalogItemParameter" : {
         "paramName" : "attributes"
